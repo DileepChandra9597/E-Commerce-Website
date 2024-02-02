@@ -18,6 +18,7 @@
     color: #090909;
     font-size: 26px;
     font-weight: 600;
+    margin-top: 50px;
 }
 .hero-left p{
     display: flex;
@@ -54,5 +55,5 @@
     justify-content: center; 
 }
 .hero-right img{
-    width: 80%;
+    width: 580px;
 }
