@@ -6,7 +6,6 @@ import all_product from '../Components/Assets/all_product'
 import Item from '../Components/Items/Item'
 
 const ShopCategory = (props) => {
-  //const {all_product} = useContext(ShopCategory);
   return (
     <div className='shop-category'>
         <img className='shopcategory-banner' src={props.banner} alt=''/>
