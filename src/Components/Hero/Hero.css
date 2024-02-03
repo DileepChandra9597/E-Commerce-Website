@@ -134,6 +134,7 @@
     .hero{
         flex-direction: column;
         padding: 50px;
+        height: 50vh;
     }
     .hero-left h2{
         font-size: 18px;
